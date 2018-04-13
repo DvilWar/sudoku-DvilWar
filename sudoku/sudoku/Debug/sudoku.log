@@ -1,0 +1,10 @@
+﻿  sudoku.cpp
+c:\users\轩辕\documents\visual studio 2015\projects\sudoku\sudoku\sudoku.cpp(410): warning C4101: “canset”: 未引用的局部变量
+c:\users\轩辕\documents\visual studio 2015\projects\sudoku\sudoku\sudoku.cpp(411): warning C4101: “i”: 未引用的局部变量
+  main.cpp
+c:\users\轩辕\documents\visual studio 2015\projects\sudoku\sudoku\sudoku.cpp(410): warning C4101: “canset”: 未引用的局部变量
+c:\users\轩辕\documents\visual studio 2015\projects\sudoku\sudoku\sudoku.cpp(411): warning C4101: “i”: 未引用的局部变量
+c:\users\轩辕\documents\visual studio 2015\projects\sudoku\sudoku\main.cpp(8): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  正在生成代码...
+  sudoku.vcxproj -> C:\Users\轩辕\Documents\Visual Studio 2015\Projects\sudoku\Debug\sudoku.exe
+  sudoku.vcxproj -> C:\Users\轩辕\Documents\Visual Studio 2015\Projects\sudoku\Debug\sudoku.pdb (Full PDB)
