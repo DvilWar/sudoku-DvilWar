@@ -51,7 +51,7 @@ int main(int argc, char *argv[]) {
 			sudo.sudu_generation(num, 5, "sudoku.txt");
 		}
 		else if (strcmp(argv[1], "-s") == 0) {
-			sudo.sudu_solve(argv[2]);
+			sudo.sudo_solve(argv[2]);
 		}
 	}
 	return 0;
